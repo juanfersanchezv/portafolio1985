@@ -39,10 +39,8 @@
 				<div class="col-md-4">
 					<div class="boton-panel">
 						<a href=" http://mapgeo.com.gt/simic/" target="_blank" class="link">
-							
 							<p class="titulo">SIMIC</p>
-							<p><b>Sistema de cuencas y monitoreo de indicadores</b></p>
-							<p>Sistema capaz  de recolectar estudios economicos, sociales, naturales con respecto a las diferentes cuencas y microcuencas del pais, Esta version esta para las cuencas del lago de Amatitlán, se puede ver los mapas y donde se realizaron los diferentes estudios.</p>
+							<p><b>Sistema de cuencas y monitoreo de indicadores,</b> es un sistema capaz  de recolectar estudios economicos, sociales, naturales con respecto a las diferentes cuencas y microcuencas del pais, Esta version esta para las cuencas del lago de Amatitlán, se puede ver los mapas y donde se realizaron los diferentes estudios.</p>
 						</a>
 					</div>
 				</div>
