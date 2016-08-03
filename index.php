@@ -61,7 +61,7 @@
 				</div>
 				<div class="col-md-4">
 					<div class="boton-panel">
-						<a href="http://mingob.gob.gt/240" target="_blank" class="link">
+						<a href="http://boletaenlinea.com/" target="_blank" class="link">
 							<p class="titulo">Boletas en Línea</p>
 							<p>Sistema que permite llevar el control de los creditos basados en regiones, tambien cuenta con modulos para grafíco por region y sucursal, ademas de llevar los procesos en tiempo real. </p>
 						</a>
@@ -137,13 +137,14 @@
 		</section>
 
 		<footer class="site-footer">
-			<div class="imagenes_grises">
+		<legend></legend>
+			<div class="">
 				<span> 
 						<a href="http://ticsolution.com.gt/gt/" target="_blank">
 							<img title="" src="images/logo_ticsolution.png" width="100" height="50"data-original-title="Ticsolution"></a></span><a href="http://ticsolution.com.gt/gt/" target="_blank"> 
 						</a>
 			</div>
-			Tºodos los derechos reservados 2016 ©
+			Todos los derechos reservados 2016 ©
 		</footer>
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
