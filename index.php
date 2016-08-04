@@ -139,7 +139,7 @@
 			<div class="">
 				<span> 
 						<a href="http://ticsolution.com.gt/gt/" target="_blank">
-							<img title="" src="images/logo_ticsolution.png" width="100" height="50"data-original-title="Ticsolution"></a></span><a href="http://ticsolution.com.gt/gt/" target="_blank"> 
+							<img title="" src="images/logo_ticsolution.png" width="20%" data-original-title="Ticsolution"></a></span><a href="http://ticsolution.com.gt/gt/" target="_blank"> 
 						</a>
 			</div>
 			
